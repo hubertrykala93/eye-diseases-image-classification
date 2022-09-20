@@ -1,0 +1,7 @@
+Used libraries:
+
+- os,
+- shutil,
+- numpy ver. 12.1.6,
+- matplotlib ver. 3.2.2,
+- keras ver. 2.8.0.
